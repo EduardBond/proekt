@@ -1,0 +1,7 @@
+C:\Users\Win\Downloads\Прога(экзамен)\znak\znak\bin\Debug\znak.exe.config
+C:\Users\Win\Downloads\Прога(экзамен)\znak\znak\bin\Debug\znak.exe
+C:\Users\Win\Downloads\Прога(экзамен)\znak\znak\bin\Debug\znak.pdb
+C:\Users\Win\Downloads\Прога(экзамен)\znak\znak\obj\Debug\znak.csprojAssemblyReference.cache
+C:\Users\Win\Downloads\Прога(экзамен)\znak\znak\obj\Debug\znak.csproj.CoreCompileInputs.cache
+C:\Users\Win\Downloads\Прога(экзамен)\znak\znak\obj\Debug\znak.exe
+C:\Users\Win\Downloads\Прога(экзамен)\znak\znak\obj\Debug\znak.pdb
