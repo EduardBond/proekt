@@ -1,0 +1,10 @@
+C:\Users\Win\Downloads\Прога(экзамен)\TelRazgovor\TelRazgovor\bin\Debug\TelRazgovor.exe.config
+C:\Users\Win\Downloads\Прога(экзамен)\TelRazgovor\TelRazgovor\bin\Debug\TelRazgovor.exe
+C:\Users\Win\Downloads\Прога(экзамен)\TelRazgovor\TelRazgovor\bin\Debug\TelRazgovor.pdb
+C:\Users\Win\Downloads\Прога(экзамен)\TelRazgovor\TelRazgovor\obj\Debug\TelRazgovor.csprojAssemblyReference.cache
+C:\Users\Win\Downloads\Прога(экзамен)\TelRazgovor\TelRazgovor\obj\Debug\TelRazgovor.TelRazgovor.resources
+C:\Users\Win\Downloads\Прога(экзамен)\TelRazgovor\TelRazgovor\obj\Debug\TelRazgovor.Properties.Resources.resources
+C:\Users\Win\Downloads\Прога(экзамен)\TelRazgovor\TelRazgovor\obj\Debug\TelRazgovor.csproj.GenerateResource.cache
+C:\Users\Win\Downloads\Прога(экзамен)\TelRazgovor\TelRazgovor\obj\Debug\TelRazgovor.csproj.CoreCompileInputs.cache
+C:\Users\Win\Downloads\Прога(экзамен)\TelRazgovor\TelRazgovor\obj\Debug\TelRazgovor.exe
+C:\Users\Win\Downloads\Прога(экзамен)\TelRazgovor\TelRazgovor\obj\Debug\TelRazgovor.pdb
